@@ -1,7 +1,7 @@
 import random
 
 
-
+#naber
 bilgisayar=0
 oyuncu=0
 i=1
