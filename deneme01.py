@@ -20,27 +20,27 @@ while (True):
         continue
     elif a == 't' and b == 'k':
         oyuncu += 1
-        print("oyuncu kazandı")
+        print("oyuncu kazandÄ±")
         continue
     elif a == 't' and b == 'm':
         bilgisayar += 1
-        print("bilgisayar kazandı")
+        print("bilgisayar kazandÄ±")
         continue
     elif a == 'k' and b == 't':
         bilgisayar += 1
-        print("bilgisayar kazandı")
+        print("bilgisayar kazandÄ±")
         continue
     elif a == 'k' and b == 'm':
         oyuncu += 1
-        print("oyuncu kazandı")
+        print("oyuncu kazandÄ±")
         continue
     elif a == 'm' and b == 't':
         oyuncu += 1
-        print("oyuncu kazandı")
+        print("oyuncu kazandÄ±")
         continue
     elif a == 'm' and b == 'k':
         bilgisayar += 1
-        print("oyuncu kazandı")
+        print("oyuncu kazandÄ±")
         continue
     i+=1
     if (i == 10):
@@ -48,7 +48,7 @@ while (True):
 
 
 if oyuncu>bilgisayar:
-    print("kazandınız")
+    print("kazandÄ±nÄ±z")
 elif oyuncu==bilgisayar:
     print("berabere")
 else:
